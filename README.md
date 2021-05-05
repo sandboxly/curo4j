@@ -1,2 +1,2 @@
 # curo4j
-A little helper library to take the pain out of AWS CloudFormation custom resources for java.
+The purpose of the curo4j library is to make it easier to create AWS CloudFormation custom resources.
